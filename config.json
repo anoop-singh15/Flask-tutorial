@@ -1,0 +1,22 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/cozycoder",
+    "production_uri": "mysql://root:@localhost/cozycoder",
+    "fb_url": "https://facebook.com/cozycoder",
+    "tw_url": "https://twitter.com/cozycoder",
+    "gh_url": "https://github.com/cozycoder",
+    "blog_name": "Cozy Coding",
+    "tag_line": "A Blog Theme By CozyCoder",
+    "gmail-user": "useremail@gmail.com",
+    "gmail-password": "user-gmailpassword",
+    "about_txt": "Hi!!! CozyTuba here and i am learning about web development using flask",
+    "no_post": 2,
+    "login_img": "images.jpg",
+    "admin_user": "anoop",
+    "admin_password": "try123",
+    "upload_location": "E:\\pycharm\\pycharm project\\flask tut\\static"
+  }
+
+}
